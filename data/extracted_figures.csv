@@ -1,0 +1,67 @@
+key,value,unit,snapshot,source,doi_or_url,where_found
+eur_share_2009,96,percent,2009 analysis,Popejoy & Fullerton 2016 (reporting the 2009 analysis),10.1038/538161a,PMC5089703 opening paragraph
+nonEur_nearly_2016,20,percent,Aug 2016,Popejoy & Fullerton 2016,10.1038/538161a,"text: non-European proportion 'nearly 20%'"
+gwas_catalog_studies_2016,2511,studies,Aug 2016,Popejoy & Fullerton 2016,10.1038/538161a,PMC5089703 methods paragraph
+gwas_catalog_samples_2016_millions,35,million samples (nearly),Aug 2016,Popejoy & Fullerton 2016,10.1038/538161a,PMC5089703 methods paragraph
+gwas_catalog_studies_2009,373,studies,2009,Popejoy & Fullerton 2016,10.1038/538161a,PMC5089703 methods paragraph
+gwas_catalog_samples_2009_millions,1.7,million samples (roughly),2009,Popejoy & Fullerton 2016,10.1038/538161a,PMC5089703 methods paragraph
+four_groups_combined_max,4,percent (less than),2016,Popejoy & Fullerton 2016,10.1038/538161a,"African, Latin American, Hispanic, indigenous combined"
+asia_share_of_growth,78,percent (nearly),2009-2016,Popejoy & Fullerton 2016,10.1038/538161a,PMC5089703 text
+eur_share_martin,79,percent (approx),report year 2019,Martin et al. 2019,10.1038/s41588-019-0379-x,PMC6563838 intro; GWAS Catalog cumulative
+eur_share_global_pop_martin,16,percent,report year 2019,Martin et al. 2019,10.1038/s41588-019-0379-x,PMC6563838 intro
+prs_fold_hispanic,1.6,fold lower accuracy,UK Biobank analysis,Martin et al. 2019,10.1038/s41588-019-0379-x,PMC6563838 results
+prs_fold_south_asian,1.7,fold lower accuracy,UK Biobank analysis,Martin et al. 2019,10.1038/s41588-019-0379-x,PMC6563838 results
+prs_fold_east_asian,2.5,fold lower accuracy,UK Biobank analysis,Martin et al. 2019,10.1038/s41588-019-0379-x,PMC6563838 results
+prs_fold_african,4.9,fold lower accuracy,UK Biobank analysis,Martin et al. 2019,10.1038/s41588-019-0379-x,PMC6563838 results
+eur_share_mills_2017,88,percent,2017,Mills & Rahal 2019,10.1038/s42003-018-0261-x,abstract
+mills_studies,3639,studies 2005-2018,2005-2018,Mills & Rahal 2019,10.1038/s42003-018-0261-x,abstract
+mills_three_country_share,72,percent of discoveries,2005-2018,Mills & Rahal 2019,10.1038/s42003-018-0261-x,abstract
+eur_share_fatumo_2016,81,percent,2016,Fatumo et al. 2022,10.1038/s41591-021-01672-4,PMC7614889 text
+eur_share_fatumo_2021,86.3,percent,June 2021,Fatumo et al. 2022,10.1038/s41591-021-01672-4,PMC7614889 text
+ea_share_fatumo_2021,5.9,percent,June 2021,Fatumo et al. 2022,10.1038/s41591-021-01672-4,PMC7614889 text
+afr_share_fatumo_2021,1.1,percent,June 2021,Fatumo et al. 2022,10.1038/s41591-021-01672-4,PMC7614889 text
+sa_share_fatumo_2021,0.8,percent,June 2021,Fatumo et al. 2022,10.1038/s41591-021-01672-4,PMC7614889 text
+hisp_share_fatumo_2021,0.08,percent,June 2021,Fatumo et al. 2022,10.1038/s41591-021-01672-4,PMC7614889 text
+afr_ethnolinguistic_no_data,90,percent (more than),2022,Fatumo et al. 2022,10.1038/s41591-021-01672-4,PMC7614889 text
+eur_share_corpas_2023,86.5,percent,2023,Corpas et al. 2025,10.1016/j.xgen.2024.100724,PMC11770215 text
+afr_share_corpas_2023,0.47,percent,2023,Corpas et al. 2025,10.1016/j.xgen.2024.100724,PMC11770215 text
+nonEur_corpas_2016,19,percent,2016,Corpas et al. 2025,10.1016/j.xgen.2024.100724,PMC11770215 text
+nonEur_corpas_2021,14,percent,2021,Corpas et al. 2025,10.1016/j.xgen.2024.100724,PMC11770215 text
+ukb_white_british_n,425000,individuals (approx),2025,Corpas et al. 2025,10.1016/j.xgen.2024.100724,PMC11770215 text
+monitor_eur_sep2024,94.48,percent,Sept 2024 (as reported by Corpas et al.),Corpas et al. 2025,10.1016/j.xgen.2024.100724,PMC11770215 Figure 3 text
+monitor_asian_sep2024,3.96,percent,Sept 2024 (as reported by Corpas et al.),Corpas et al. 2025,10.1016/j.xgen.2024.100724,PMC11770215 Figure 3 text
+monitor_uk_double_count_millions,3675.9,million participants counted for UK,2021,Corpas et al. 2025,10.1016/j.xgen.2024.100724,PMC11770215 text
+uk_population_millions,67.0,million,2021,Corpas et al. 2025,10.1016/j.xgen.2024.100724,PMC11770215 text
+pharmgkb_eur,63.6,percent,2024,Corpas et al. 2025 (PharmGKB),10.1016/j.xgen.2024.100724,PMC11770215 Figure 4 legend
+pharmgkb_eas,28.1,percent,2024,Corpas et al. 2025 (PharmGKB),10.1016/j.xgen.2024.100724,PMC11770215 Figure 4 legend
+fda_trials_eur,76,percent,2015-2019,Corpas et al. 2025 citing FDA information,10.1016/j.xgen.2024.100724,PMC11770215 text (secondary)
+monitor_eur_now,88.37,percent,Nov 2026 (site check 2026-11-03),GWAS Diversity Monitor (by participants; discovery stage),https://www.gwasdiversitymonitor.com/,homepage read 2026-11-08
+monitor_asian_now,6.06,percent,Nov 2026,GWAS Diversity Monitor,https://www.gwasdiversitymonitor.com/,homepage
+monitor_african_now,0.29,percent,Nov 2026,GWAS Diversity Monitor,https://www.gwasdiversitymonitor.com/,homepage
+monitor_aa_now,2.69,percent (African American or Afro-Caribbean),Nov 2026,GWAS Diversity Monitor,https://www.gwasdiversitymonitor.com/,homepage
+monitor_hisp_now,1.26,percent,Nov 2026,GWAS Diversity Monitor,https://www.gwasdiversitymonitor.com/,homepage
+monitor_other_now,1.33,percent (other or mixed),Nov 2026,GWAS Diversity Monitor,https://www.gwasdiversitymonitor.com/,homepage
+duncan_eur_only,67,percent of PRS studies,2008-2017,Duncan et al. 2019,10.1038/s41467-019-11112-0,abstract
+duncan_ea_only,19,percent of PRS studies,2008-2017,Duncan et al. 2019,10.1038/s41467-019-11112-0,abstract
+duncan_afr_hisp_indig,3.8,percent of PRS studies,2008-2017,Duncan et al. 2019,10.1038/s41467-019-11112-0,abstract
+exac_n,60252,individuals,2016,Petrovski & Goldstein 2016,10.1186/s13059-016-1016-y,PMC4944427 text
+exac_eur,60.9,percent,2016,Petrovski & Goldstein 2016,10.1186/s13059-016-1016-y,PMC4944427 text
+exac_sa,13.7,percent,2016,Petrovski & Goldstein 2016,10.1186/s13059-016-1016-y,PMC4944427 text
+exac_lat,9.6,percent,2016,Petrovski & Goldstein 2016,10.1186/s13059-016-1016-y,PMC4944427 text
+exac_afr,8.6,percent,2016,Petrovski & Goldstein 2016,10.1186/s13059-016-1016-y,PMC4944427 text
+exac_ea,7.2,percent,2016,Petrovski & Goldstein 2016,10.1186/s13059-016-1016-y,PMC4944427 text
+cand_eur,6.6,candidate variants per person,2016,Petrovski & Goldstein 2016,10.1186/s13059-016-1016-y,PMC4944427 results
+cand_afr,9.9,candidate variants per person,2016,Petrovski & Goldstein 2016,10.1186/s13059-016-1016-y,PMC4944427 results
+cand_lat,10.9,candidate variants per person,2016,Petrovski & Goldstein 2016,10.1186/s13059-016-1016-y,PMC4944427 results
+cand_ea,12.3,candidate variants per person,2016,Petrovski & Goldstein 2016,10.1186/s13059-016-1016-y,PMC4944427 results
+cand_sa,12.7,candidate variants per person,2016,Petrovski & Goldstein 2016,10.1186/s13059-016-1016-y,PMC4944427 results
+gnomad2_exomes,125748,exomes,2020,Karczewski et al. 2020,10.1038/s41586-020-2308-7,abstract
+gnomad2_genomes,15708,genomes,2020,Karczewski et al. 2020,10.1038/s41586-020-2308-7,abstract
+gnomad4_total,807162,individuals,Nov 2023,gnomAD Team 2023,https://gnomad.broadinstitute.org/news/2023-11-gnomad-v4-0,news post
+gnomad4_nonEur_approx,138000,individuals (approx),Nov 2023,gnomAD Team 2023,https://gnomad.broadinstitute.org/news/2023-11-gnomad-v4-0,news post
+gnomad4_ukb_exomes,416555,exomes from UK Biobank,Nov 2023,gnomAD Team 2023,https://gnomad.broadinstitute.org/news/2023-11-gnomad-v4-0,news post
+allofus_genomes,245388,genomes,2024,All of Us Research Program Genomics Investigators 2024,10.1038/s41586-023-06957-x,abstract
+allofus_underrep_pct,77,percent of participants,2024,All of Us Research Program Genomics Investigators 2024,10.1038/s41586-023-06957-x,abstract
+allofus_urem_pct,46,percent of participants,2024,All of Us Research Program Genomics Investigators 2024,10.1038/s41586-023-06957-x,abstract
+allofus_novel_variants_millions,275,million variants,2024,All of Us Research Program Genomics Investigators 2024,10.1038/s41586-023-06957-x,abstract
+gnomad4_exomes,730947,exomes,Nov 2023,gnomAD Team 2023,https://gnomad.broadinstitute.org/news/2023-11-gnomad-v4-0,news post

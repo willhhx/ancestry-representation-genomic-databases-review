@@ -1,0 +1,16 @@
+,value
+monitor_now_sum,100.0
+monitor_now_nonEur,11.63
+monitor_now_all_non_asian_non_eur,5.57
+exac_sum,100.0
+fatumo_2021_listed_sum,94.18
+nonEur_fatumo_2016,19.0
+nonEur_fatumo_2021,13.7
+nonEur_corpas_2023,13.5
+gnomad4_nonEur_share_pct,17.1
+gnomad2_total,141456.0
+gnomad4_ukb_share_of_exomes_pct,57.0
+double_count_ratio_uk,54.9
+cand_ratio_sa_vs_eur,1.92
+cand_ratio_afr_vs_eur,1.5
+martin_eur_minus_global_pop_pp,63.0
